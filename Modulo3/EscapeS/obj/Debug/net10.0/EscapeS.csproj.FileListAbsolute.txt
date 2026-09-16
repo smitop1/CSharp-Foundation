@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\bin\Debug\net10.0\EscapeS.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\bin\Debug\net10.0\EscapeS.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\bin\Debug\net10.0\EscapeS.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\bin\Debug\net10.0\EscapeS.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\bin\Debug\net10.0\EscapeS.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\EscapeS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\EscapeS.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\EscapeS.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\EscapeS.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\EscapeS.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\refint\EscapeS.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\EscapeS.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\EscapeS.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\EscapeS\obj\Debug\net10.0\ref\EscapeS.dll

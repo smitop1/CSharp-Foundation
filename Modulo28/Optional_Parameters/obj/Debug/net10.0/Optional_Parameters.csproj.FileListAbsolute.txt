@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\bin\Debug\net10.0\Optional_Parameters.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\bin\Debug\net10.0\Optional_Parameters.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\bin\Debug\net10.0\Optional_Parameters.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\bin\Debug\net10.0\Optional_Parameters.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\bin\Debug\net10.0\Optional_Parameters.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\Optional_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\Optional_Parameters.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\Optional_Parameters.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\Optional_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\Optional_Parameters.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\refint\Optional_Parameters.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\Optional_Parameters.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\Optional_Parameters.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Optional_Parameters\obj\Debug\net10.0\ref\Optional_Parameters.dll

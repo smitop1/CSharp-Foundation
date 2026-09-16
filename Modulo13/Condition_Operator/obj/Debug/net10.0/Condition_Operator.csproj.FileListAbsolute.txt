@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\bin\Debug\net10.0\Condition_Operator.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\bin\Debug\net10.0\Condition_Operator.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\bin\Debug\net10.0\Condition_Operator.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\bin\Debug\net10.0\Condition_Operator.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\bin\Debug\net10.0\Condition_Operator.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\Condition_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\Condition_Operator.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\Condition_Operator.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\Condition_Operator.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\Condition_Operator.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\refint\Condition_Operator.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\Condition_Operator.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\Condition_Operator.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo13\Condition_Operator\obj\Debug\net10.0\ref\Condition_Operator.dll

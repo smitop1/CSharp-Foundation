@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\bin\Debug\net10.0\Array_Operations.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\bin\Debug\net10.0\Array_Operations.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\bin\Debug\net10.0\Array_Operations.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\bin\Debug\net10.0\Array_Operations.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\bin\Debug\net10.0\Array_Operations.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\Array_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\Array_Operations.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\Array_Operations.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\Array_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\Array_Operations.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\refint\Array_Operations.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\Array_Operations.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\Array_Operations.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo22\Array_Operations\obj\Debug\net10.0\ref\Array_Operations.dll

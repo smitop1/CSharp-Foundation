@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\bin\Debug\net10.0\Data_Types.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\bin\Debug\net10.0\Data_Types.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\bin\Debug\net10.0\Data_Types.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\bin\Debug\net10.0\Data_Types.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\bin\Debug\net10.0\Data_Types.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\Data_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\Data_Types.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\Data_Types.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\Data_Types.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\Data_Types.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\refint\Data_Types.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\Data_Types.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\Data_Types.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo20\Data_Types\obj\Debug\net10.0\ref\Data_Types.dll

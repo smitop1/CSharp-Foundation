@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\bin\Debug\net10.0\Return_String.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\bin\Debug\net10.0\Return_String.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\bin\Debug\net10.0\Return_String.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\bin\Debug\net10.0\Return_String.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\bin\Debug\net10.0\Return_String.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\Return_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\Return_String.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\Return_String.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\Return_String.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\Return_String.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\refint\Return_String.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\Return_String.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\Return_String.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo29\Return_String\obj\Debug\net10.0\ref\Return_String.dll

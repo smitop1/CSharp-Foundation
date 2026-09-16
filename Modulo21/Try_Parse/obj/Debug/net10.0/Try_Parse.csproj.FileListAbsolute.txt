@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\bin\Debug\net10.0\Try_Parse.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\bin\Debug\net10.0\Try_Parse.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\bin\Debug\net10.0\Try_Parse.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\bin\Debug\net10.0\Try_Parse.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\bin\Debug\net10.0\Try_Parse.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\Try_Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\Try_Parse.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\Try_Parse.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\Try_Parse.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\Try_Parse.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\refint\Try_Parse.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\Try_Parse.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\Try_Parse.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo21\Try_Parse\obj\Debug\net10.0\ref\Try_Parse.dll

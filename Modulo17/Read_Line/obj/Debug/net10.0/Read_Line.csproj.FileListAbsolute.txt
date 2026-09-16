@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\bin\Debug\net10.0\Read_Line.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\bin\Debug\net10.0\Read_Line.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\bin\Debug\net10.0\Read_Line.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\bin\Debug\net10.0\Read_Line.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\bin\Debug\net10.0\Read_Line.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\Read_Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\Read_Line.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\Read_Line.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\Read_Line.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\Read_Line.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\refint\Read_Line.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\Read_Line.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\Read_Line.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo17\Read_Line\obj\Debug\net10.0\ref\Read_Line.dll

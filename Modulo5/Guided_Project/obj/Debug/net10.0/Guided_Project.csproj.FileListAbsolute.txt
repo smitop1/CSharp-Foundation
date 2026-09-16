@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\bin\Debug\net10.0\Guided_Project.exe
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\bin\Debug\net10.0\Guided_Project.deps.json
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\bin\Debug\net10.0\Guided_Project.runtimeconfig.json
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\bin\Debug\net10.0\Guided_Project.dll
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\bin\Debug\net10.0\Guided_Project.pdb
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\Guided_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\Guided_Project.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\Guided_Project.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\Guided_Project.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\Guided_Project.dll
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\refint\Guided_Project.dll
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\Guided_Project.pdb
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\Guided_Project.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Modulo5\Guided_Project\obj\Debug\net10.0\ref\Guided_Project.dll

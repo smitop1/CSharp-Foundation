@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\bin\Debug\net10.0\Assisted_Project.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\bin\Debug\net10.0\Assisted_Project.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\bin\Debug\net10.0\Assisted_Project.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\bin\Debug\net10.0\Assisted_Project.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\bin\Debug\net10.0\Assisted_Project.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\Assisted_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\Assisted_Project.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\Assisted_Project.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\Assisted_Project.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\Assisted_Project.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\refint\Assisted_Project.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\Assisted_Project.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\Assisted_Project.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo11\Assisted_Project\obj\Debug\net10.0\ref\Assisted_Project.dll

@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\bin\Debug\net10.0\Variable_Scope.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\bin\Debug\net10.0\Variable_Scope.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\bin\Debug\net10.0\Variable_Scope.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\bin\Debug\net10.0\Variable_Scope.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\bin\Debug\net10.0\Variable_Scope.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\Variable_Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\Variable_Scope.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\Variable_Scope.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\Variable_Scope.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\Variable_Scope.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\refint\Variable_Scope.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\Variable_Scope.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\Variable_Scope.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Variable_Scope\obj\Debug\net10.0\ref\Variable_Scope.dll

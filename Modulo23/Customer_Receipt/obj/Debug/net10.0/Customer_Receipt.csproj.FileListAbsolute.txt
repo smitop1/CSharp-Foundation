@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\bin\Debug\net10.0\Customer_Receipt.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\bin\Debug\net10.0\Customer_Receipt.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\bin\Debug\net10.0\Customer_Receipt.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\bin\Debug\net10.0\Customer_Receipt.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\bin\Debug\net10.0\Customer_Receipt.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\Customer_Receipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\Customer_Receipt.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\Customer_Receipt.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\Customer_Receipt.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\Customer_Receipt.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\refint\Customer_Receipt.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\Customer_Receipt.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\Customer_Receipt.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Customer_Receipt\obj\Debug\net10.0\ref\Customer_Receipt.dll

@@ -1,0 +1,28 @@
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\bin\Debug\net10.0\Hello_world.exe
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\bin\Debug\net10.0\Hello_world.deps.json
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\bin\Debug\net10.0\Hello_world.runtimeconfig.json
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\bin\Debug\net10.0\Hello_world.dll
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\bin\Debug\net10.0\Hello_world.pdb
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\Hello_world.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\Hello_world.AssemblyInfoInputs.cache
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\Hello_world.AssemblyInfo.cs
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\Hello_world.csproj.CoreCompileInputs.cache
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\Hello_world.dll
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\refint\Hello_world.dll
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\Hello_world.pdb
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\Hello_world.genruntimeconfig.cache
+G:\My Drive\L\Cursos\CSharp_Foundation\Hello_world\obj\Debug\net10.0\ref\Hello_world.dll
+C:\Users\lucas\Desktop\CSHARP\Hello_world\bin\Debug\net10.0\Hello_world.exe
+C:\Users\lucas\Desktop\CSHARP\Hello_world\bin\Debug\net10.0\Hello_world.deps.json
+C:\Users\lucas\Desktop\CSHARP\Hello_world\bin\Debug\net10.0\Hello_world.runtimeconfig.json
+C:\Users\lucas\Desktop\CSHARP\Hello_world\bin\Debug\net10.0\Hello_world.dll
+C:\Users\lucas\Desktop\CSHARP\Hello_world\bin\Debug\net10.0\Hello_world.pdb
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\Hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\Hello_world.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\Hello_world.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\Hello_world.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\Hello_world.dll
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\refint\Hello_world.dll
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\Hello_world.pdb
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\Hello_world.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSHARP\Hello_world\obj\Debug\net10.0\ref\Hello_world.dll

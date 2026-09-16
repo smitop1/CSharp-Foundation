@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\bin\Debug\net10.0\Array_Basics.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\bin\Debug\net10.0\Array_Basics.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\bin\Debug\net10.0\Array_Basics.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\bin\Debug\net10.0\Array_Basics.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\bin\Debug\net10.0\Array_Basics.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\Array_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\Array_Basics.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\Array_Basics.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\Array_Basics.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\Array_Basics.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\refint\Array_Basics.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\Array_Basics.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\Array_Basics.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Array_Basics\obj\Debug\net10.0\ref\Array_Basics.dll

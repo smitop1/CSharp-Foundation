@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\bin\Debug\net10.0\String_Interpolation.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\bin\Debug\net10.0\String_Interpolation.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\bin\Debug\net10.0\String_Interpolation.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\bin\Debug\net10.0\String_Interpolation.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\bin\Debug\net10.0\String_Interpolation.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\String_Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\String_Interpolation.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\String_Interpolation.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\String_Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\String_Interpolation.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\refint\String_Interpolation.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\String_Interpolation.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\String_Interpolation.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo3\String_Interpolation\obj\Debug\net10.0\ref\String_Interpolation.dll

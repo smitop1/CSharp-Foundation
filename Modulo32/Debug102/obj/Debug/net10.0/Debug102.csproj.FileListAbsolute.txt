@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\bin\Debug\net10.0\Debug102.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\bin\Debug\net10.0\Debug102.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\bin\Debug\net10.0\Debug102.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\bin\Debug\net10.0\Debug102.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\bin\Debug\net10.0\Debug102.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\Debug102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\Debug102.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\Debug102.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\Debug102.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\Debug102.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\refint\Debug102.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\Debug102.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\Debug102.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo32\Debug102\obj\Debug\net10.0\ref\Debug102.dll

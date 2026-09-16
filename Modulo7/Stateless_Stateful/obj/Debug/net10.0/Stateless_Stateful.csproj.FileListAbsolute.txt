@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\bin\Debug\net10.0\Stateless_Stateful.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\bin\Debug\net10.0\Stateless_Stateful.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\bin\Debug\net10.0\Stateless_Stateful.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\bin\Debug\net10.0\Stateless_Stateful.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\bin\Debug\net10.0\Stateless_Stateful.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\Stateless_Stateful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\Stateless_Stateful.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\Stateless_Stateful.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\Stateless_Stateful.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\Stateless_Stateful.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\refint\Stateless_Stateful.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\Stateless_Stateful.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\Stateless_Stateful.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo7\Stateless_Stateful\obj\Debug\net10.0\ref\Stateless_Stateful.dll

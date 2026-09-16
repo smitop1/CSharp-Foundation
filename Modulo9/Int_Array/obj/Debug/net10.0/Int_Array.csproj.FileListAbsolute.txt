@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\bin\Debug\net10.0\Int_Array.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\bin\Debug\net10.0\Int_Array.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\bin\Debug\net10.0\Int_Array.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\bin\Debug\net10.0\Int_Array.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\bin\Debug\net10.0\Int_Array.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\Int_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\Int_Array.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\Int_Array.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\Int_Array.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\Int_Array.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\refint\Int_Array.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\Int_Array.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\Int_Array.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Int_Array\obj\Debug\net10.0\ref\Int_Array.dll

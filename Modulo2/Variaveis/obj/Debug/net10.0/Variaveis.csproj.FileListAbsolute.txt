@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\bin\Debug\net10.0\Variaveis.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\bin\Debug\net10.0\Variaveis.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\bin\Debug\net10.0\Variaveis.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\bin\Debug\net10.0\Variaveis.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\bin\Debug\net10.0\Variaveis.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\Variaveis.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\Variaveis.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\refint\Variaveis.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\Variaveis.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\Variaveis.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo2\Variaveis\obj\Debug\net10.0\ref\Variaveis.dll

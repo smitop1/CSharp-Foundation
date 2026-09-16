@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\bin\Debug\net10.0\Code_Block.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\bin\Debug\net10.0\Code_Block.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\bin\Debug\net10.0\Code_Block.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\bin\Debug\net10.0\Code_Block.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\bin\Debug\net10.0\Code_Block.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\Code_Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\Code_Block.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\Code_Block.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\Code_Block.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\Code_Block.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\refint\Code_Block.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\Code_Block.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\Code_Block.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo14\Code_Block\obj\Debug\net10.0\ref\Code_Block.dll

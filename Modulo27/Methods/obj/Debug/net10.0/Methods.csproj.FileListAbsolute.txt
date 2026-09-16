@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\bin\Debug\net10.0\Methods.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\bin\Debug\net10.0\Methods.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\bin\Debug\net10.0\Methods.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\bin\Debug\net10.0\Methods.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\bin\Debug\net10.0\Methods.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\Methods.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\Methods.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\refint\Methods.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\Methods.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\Methods.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo27\Methods\obj\Debug\net10.0\ref\Methods.dll

@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\bin\Debug\net10.0\Exceptions2.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\bin\Debug\net10.0\Exceptions2.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\bin\Debug\net10.0\Exceptions2.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\bin\Debug\net10.0\Exceptions2.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\bin\Debug\net10.0\Exceptions2.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\Exceptions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\Exceptions2.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\Exceptions2.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\Exceptions2.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\Exceptions2.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\refint\Exceptions2.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\Exceptions2.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\Exceptions2.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo33\Exceptions2\obj\Debug\net10.0\ref\Exceptions2.dll

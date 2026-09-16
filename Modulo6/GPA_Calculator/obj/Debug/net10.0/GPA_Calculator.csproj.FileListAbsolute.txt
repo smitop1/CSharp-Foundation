@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\bin\Debug\net10.0\GPA_Calculator.exe
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\bin\Debug\net10.0\GPA_Calculator.deps.json
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\bin\Debug\net10.0\GPA_Calculator.runtimeconfig.json
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\bin\Debug\net10.0\GPA_Calculator.dll
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\bin\Debug\net10.0\GPA_Calculator.pdb
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\GPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\GPA_Calculator.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\GPA_Calculator.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\GPA_Calculator.dll
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\refint\GPA_Calculator.dll
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\GPA_Calculator.pdb
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\GPA_Calculator.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Modulo6\GPA_Calculator\obj\Debug\net10.0\ref\GPA_Calculator.dll

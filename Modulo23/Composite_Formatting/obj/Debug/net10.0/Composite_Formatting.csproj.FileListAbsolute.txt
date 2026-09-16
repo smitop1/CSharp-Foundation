@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\bin\Debug\net10.0\Composite_Formatting.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\bin\Debug\net10.0\Composite_Formatting.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\bin\Debug\net10.0\Composite_Formatting.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\bin\Debug\net10.0\Composite_Formatting.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\bin\Debug\net10.0\Composite_Formatting.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\Composite_Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\Composite_Formatting.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\Composite_Formatting.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\Composite_Formatting.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\Composite_Formatting.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\refint\Composite_Formatting.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\Composite_Formatting.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\Composite_Formatting.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Composite_Formatting\obj\Debug\net10.0\ref\Composite_Formatting.dll

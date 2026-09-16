@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\Challenge_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\Challenge_1.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\Challenge_1.AssemblyInfo.cs
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\Challenge_1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\bin\Debug\net10.0\Challenge_1.exe
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\bin\Debug\net10.0\Challenge_1.deps.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\bin\Debug\net10.0\Challenge_1.runtimeconfig.json
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\bin\Debug\net10.0\Challenge_1.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\bin\Debug\net10.0\Challenge_1.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\Challenge_1.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\refint\Challenge_1.dll
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\Challenge_1.pdb
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\Challenge_1.genruntimeconfig.cache
+C:\Users\lucas\Desktop\CSharp_Foundation\Modulo9\Challenge_1\obj\Debug\net10.0\ref\Challenge_1.dll

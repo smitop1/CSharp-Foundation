@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\bin\Debug\net10.0\Padding_and_Alignment.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\bin\Debug\net10.0\Padding_and_Alignment.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\bin\Debug\net10.0\Padding_and_Alignment.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\bin\Debug\net10.0\Padding_and_Alignment.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\bin\Debug\net10.0\Padding_and_Alignment.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\Padding_and_Alignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\Padding_and_Alignment.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\Padding_and_Alignment.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\Padding_and_Alignment.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\Padding_and_Alignment.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\refint\Padding_and_Alignment.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\Padding_and_Alignment.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\Padding_and_Alignment.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo23\Padding_and_Alignment\obj\Debug\net10.0\ref\Padding_and_Alignment.dll

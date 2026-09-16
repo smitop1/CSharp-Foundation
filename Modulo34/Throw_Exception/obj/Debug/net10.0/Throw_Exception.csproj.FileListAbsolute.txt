@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\bin\Debug\net10.0\Throw_Exception.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\bin\Debug\net10.0\Throw_Exception.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\bin\Debug\net10.0\Throw_Exception.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\bin\Debug\net10.0\Throw_Exception.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\bin\Debug\net10.0\Throw_Exception.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\Throw_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\Throw_Exception.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\Throw_Exception.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\Throw_Exception.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\Throw_Exception.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\refint\Throw_Exception.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\Throw_Exception.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\Throw_Exception.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo34\Throw_Exception\obj\Debug\net10.0\ref\Throw_Exception.dll

@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\bin\Debug\net10.0\for_Statement.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\bin\Debug\net10.0\for_Statement.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\bin\Debug\net10.0\for_Statement.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\bin\Debug\net10.0\for_Statement.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\bin\Debug\net10.0\for_Statement.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\for_Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\for_Statement.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\for_Statement.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\for_Statement.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\for_Statement.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\refint\for_Statement.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\for_Statement.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\for_Statement.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo16\for_Statement\obj\Debug\net10.0\ref\for_Statement.dll

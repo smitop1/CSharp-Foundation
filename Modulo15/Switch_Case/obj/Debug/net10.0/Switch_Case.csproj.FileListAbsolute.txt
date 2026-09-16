@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\bin\Debug\net10.0\Switch_Case.exe
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\bin\Debug\net10.0\Switch_Case.deps.json
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\bin\Debug\net10.0\Switch_Case.runtimeconfig.json
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\bin\Debug\net10.0\Switch_Case.dll
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\bin\Debug\net10.0\Switch_Case.pdb
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\Switch_Case.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\Switch_Case.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\Switch_Case.dll
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\refint\Switch_Case.dll
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\Switch_Case.pdb
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\Switch_Case.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Modulo15\Switch_Case\obj\Debug\net10.0\ref\Switch_Case.dll

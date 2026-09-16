@@ -1,0 +1,14 @@
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\bin\Debug\net10.0\Methods_Parameters.exe
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\bin\Debug\net10.0\Methods_Parameters.deps.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\bin\Debug\net10.0\Methods_Parameters.runtimeconfig.json
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\bin\Debug\net10.0\Methods_Parameters.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\bin\Debug\net10.0\Methods_Parameters.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\Methods_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\Methods_Parameters.AssemblyInfoInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\Methods_Parameters.AssemblyInfo.cs
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\Methods_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\Methods_Parameters.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\refint\Methods_Parameters.dll
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\Methods_Parameters.pdb
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\Methods_Parameters.genruntimeconfig.cache
+C:\Users\Smitop\Desktop\CSharp_Foundation\Modulo28\Methods_Parameters\obj\Debug\net10.0\ref\Methods_Parameters.dll
